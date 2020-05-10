@@ -19,5 +19,8 @@
 	"homepage": "https://github.com/a19950605/nodejs#readme",
 	"devDependencies": {
 		"lite-server": "^2.5.4"
+	},
+	"dependencies": {
+		"express": "^4.16.3"
 	}
 }
